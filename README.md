@@ -15,11 +15,20 @@ Using the basic SOM algorithm, a few interesting examples that have mentioned in
 ### Results:
 
 #### Example 1: Square Input Distribution
-
+<p align="center"> 
+<img src="./utils/Square Input Distribution.png">
+</p>
 
 #### Example 2: Triangle Input Distribution
-
+<p align="center"> 
+<img src="./utils/Triangle Input Distribution.png">
+</p>
 
 #### Example 3: Triangle Input Distribution with 1D neuron array
+<p align="center"> 
+<img src="./utils/Triangle Input Distribution with 1D neuron array.png">
+</p>
 
-Cheers!!
+Please suggest any modifications that will improve these implementations by reporting an issue.
+
+Cheers!! 🍺
